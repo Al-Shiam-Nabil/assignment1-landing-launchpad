@@ -9,6 +9,7 @@ body{
     margin: 0 auto;
       font-family: "Raleway", sans-serif;
       background-color: #f5f8ff;
+      color:#252432;
 }
 
 /*header start*/
@@ -45,6 +46,8 @@ nav{
 /*header end*/
 
 /*main start*/
+
+/*action start*/
 .action-container{
     display: flex;
     justify-content: space-between;
@@ -76,4 +79,39 @@ nav{
 .action-sub-title{
     font-size: 24px;
     margin-bottom: 23px;
+}
+
+/*productive users start*/
+.productive-user-container{
+    background-color: #e5e7ff;
+    border-radius: 24px;
+    padding: 50px 80px;
+    margin-bottom: 137px;
+}
+
+.productive-data-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 158px;
+}
+
+.productive-item {
+    text-align: center;
+
+}
+
+.productive-title{
+    font-size: 38px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.productive-data{
+    font-size: 80px;
+    color:#4E47FF;
+}
+
+.productive-sub-title{
+    font-size: 20px;
 }
