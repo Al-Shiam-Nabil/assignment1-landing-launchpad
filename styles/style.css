@@ -30,3 +30,14 @@ nav{
     font-weight: bolder;
     color:#4E47FF;
 }
+
+.banner-container{
+    max-width: 905px;
+    margin: 152px auto;
+    text-align: center;
+}
+
+.banner-heading{
+    font-size: 65px;
+    margin-bottom: 37px;
+}
