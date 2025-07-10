@@ -3,11 +3,15 @@
 .content-width {
   max-width: 1140px;
   margin: 0 auto;
-  
+  /* border:1px solid red; */
 }
 
 .secondary-font {
   font-family: "Inter", sans-serif;
+}
+
+.secondary-color{
+    color:#25243280;
 }
 
 .common-btn {
