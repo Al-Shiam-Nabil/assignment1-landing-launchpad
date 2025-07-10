@@ -196,6 +196,7 @@ nav {
 
 .focus-details {
   margin: 20px 0;
+  color: #00000080;
 }
 
 .focus-image {
@@ -254,4 +255,45 @@ textarea {
 
 .get-touch-container button {
   width: 100%;
+}
+
+/*footer*/
+footer {
+  background-color: #ffffff;
+  padding: 104px 0;
+}
+
+.footer-container {
+  width: 531px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-logo {
+  font-size: 40px;
+  font-weight: bold;
+  color: #4e47ff;
+}
+
+.footer-sub-title {
+  color: #8987a1;
+  margin: 10px 0 20px;
+}
+
+.links-container ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 48px;
+}
+
+.links-container ul li {
+  list-style: none;
+}
+
+.links-container ul li a {
+  text-decoration: none;
+  color: #8987a1;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
 }
