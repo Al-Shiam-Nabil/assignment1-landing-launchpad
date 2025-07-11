@@ -297,3 +297,7 @@ footer {
   font-family: "Inter", sans-serif;
   font-weight: 400;
 }
+
+.links-container ul li a:hover {
+  color: #4e47ff;
+}
